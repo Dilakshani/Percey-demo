@@ -84,3 +84,12 @@ a:hover {
 .content th {
   @apply bg-gray-100;
 }
+
+.button {
+  width: 100%;
+  padding: 10% auto;
+  background-color: rgb(11, 11, 155);
+  height: 100px;
+  color: aliceblue;
+  cursor: pointer;
+}
