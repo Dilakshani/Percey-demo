@@ -1,3 +1,7 @@
+:root {
+  --blue: rgb(5, 5, 209);
+}
+
 @tailwind base;
 
 a {
@@ -22,6 +26,7 @@ a:hover {
 
 .content h1 {
   @apply text-5xl font-bold mt-12 mb-5 leading-10;
+  color: var(--blue);
 }
 
 .content h2 {
@@ -88,8 +93,12 @@ a:hover {
 .button {
   width: 100%;
   padding: 10% auto;
-  background-color: rgb(11, 11, 155);
+  background-color: var(--blue);
   height: 100px;
   color: aliceblue;
   cursor: pointer;
+}
+
+.heading {
+  color: var(--blue);
 }

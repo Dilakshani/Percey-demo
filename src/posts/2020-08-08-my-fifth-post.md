@@ -19,3 +19,10 @@ function myFunction() {
 ```
 
 <input type="button" value="See More" class="button"/>
+
+<h3 class="heading">Related Links</h3>
+
+<ul>
+  <li>Examples</li>
+  <li>Articles</li>
+</ul>
