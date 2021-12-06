@@ -46,12 +46,12 @@ Production-ready in mind:
 
 ### Premium Themes ([Eleventy Themes](https://creativedesignsguru.com/category/eleventy/))
 
-| [Blue Dark Eleventy Theme](https://creativedesignsguru.com/blue-dark-eleventy-theme/) | [Blue Eclatant Eleventy Theme](https://creativedesignsguru.com/blue-eclatant-eleventy-theme/) |
-| --- | --- |
+| [Blue Dark Eleventy Theme](https://creativedesignsguru.com/blue-dark-eleventy-theme/)                                                                                                                | [Blue Eclatant Eleventy Theme](https://creativedesignsguru.com/blue-eclatant-eleventy-theme/)                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Blue Dark Eleventy Theme premium](https://creativedesignsguru.com/assets/images/themes/blue-dark-mode-eleventy-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-dark-eleventy-theme/) | [![Blue Eclatant Eleventy Theme premium](https://creativedesignsguru.com/assets/images/themes/eclatant-blue-eleventy-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-eclatant-eleventy-theme/) |
 
-| [Blue Modern Eleventy Theme](https://creativedesignsguru.com/blue-modern-eleventy-theme/) | [Blue Minimalist Eleventy Theme](https://creativedesignsguru.com/blue-minimalist-eleventy-theme/) |
-| --- | --- |
+| [Blue Modern Eleventy Theme](https://creativedesignsguru.com/blue-modern-eleventy-theme/)                                                                                                             | [Blue Minimalist Eleventy Theme](https://creativedesignsguru.com/blue-minimalist-eleventy-theme/)                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Blue Modern Eleventy Theme premium](https://creativedesignsguru.com/assets/images/themes/modern-blue-eleventy-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-modern-eleventy-theme/) | [![Blue Minimalist Eleventy Theme premium](https://creativedesignsguru.com/assets/images/themes/minimalist-blue-eleventy-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-minimalist-eleventy-theme/) |
 
 ### Getting started
@@ -147,3 +147,5 @@ See [LICENSE](LICENSE) for more information.
 Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com)
 
 [![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/ixartz)
+
+### FAQ
